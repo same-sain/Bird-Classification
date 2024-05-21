@@ -1,83 +1,108 @@
 [
 	{
-		"th": "นกเอี้ยงหงอน",
-		"en": "Great Myna",
-		"sci": "Acridotheres grandis"
+		"th": "นกกาเหวดปีกสีครีม",
+		"en": "Lesser Whitethroat",
+		"sci": "Acrocephalus dumetorum"
 	},
 	{
-		"th": "นกเอี้ยงสาริกา",
-		"en": "Sturnidae",
-		"sci": "Acridotheres tristis"
+		"th": "นกตรองเท้าขาว",
+		"en": "Common Sandpiper",
+		"sci": "Actitis hypoleucos"
 	},
 	{
-		"th": "นกปากห่าง",
-		"en": "Openbill stork",
-		"sci": "Anastomus oscitans"
+		"th": "เป็ดจ๊อก",
+		"en": "Mallard",
+		"sci": "Anas platyrhynchos"
 	},
 	{
-		"th": "นกกินปลี คอสีน้ำตาล",
-		"en": "Brown-throated sunbird",
-		"sci": "Anthreptes malacensis"
+		"th": "ห่านยักษ์",
+		"en": "Greylag Goose",
+		"sci": "Anser anser"
 	},
 	{
-		"th": "นกยางโทนใหญ่",
-		"en": "Great White Egret",
-		"sci": "Ardea alba"
+		"th": "นกยางน้ำใหญ่",
+		"en": "Grey Heron",
+		"sci": "Ardea cinerea"
 	},
 	{
-		"th": "นกยางกรอกพันธุ์จีน",
-		"en": "Chinese Pond Heron",
-		"sci": "Ardeola bacchus"
+		"th": "นกกระเต็นใหญ่",
+		"en": "Great Bittern",
+		"sci": "Botaurus stellaris"
 	},
 	{
-		"th": "นกยางควาย",
-		"en": "Cattle Egret",
-		"sci": "Bubulcus ibis"
+		"th": "นกอินทรีย์",
+		"en": "Common Buzzard",
+		"sci": "Buteo buteo"
 	},
 	{
-		"th": "นกเงือกหัวหงอนใหญ่",
-		"en": "White-crowned hornbill",
-		"sci": "Buceros bicornis"
+		"th": "นกนางแล",
+		"en": "Dunlin",
+		"sci": "Calidris alpina"
 	},
 	{
-		"th": "นกกินปลีอกเหลือง",
-		"en": "Yellow-breasted Sunbird",
-		"sci": "Cinnyris jugularis"
+		"th": "นกกระเพราใหญ่",
+		"en": "Little Ringed Plover",
+		"sci": "Charadrius dubius"
 	},
 	{
-		"th": "นกพิราบป่า",
-		"en": "wood pigeon",
-		"sci": "Columba livia"
+		"th": "นกนางนวล",
+		"en": "Black-headed Gull",
+		"sci": "Chroicocephalus ridibundus"
 	},
 	{
-		"th": "นกตะขามทุ่ง",
-		"en": "Indochinese roller",
-		"sci": "Coracias benghalensis"
+		"th": "นกคัคคูเลส",
+		"en": "Common Cuckoo",
+		"sci": "Cuculus canorus"
 	},
 	{
-		"th": "อีกา",
-		"en": "crow",
-		"sci": "Corvus macrorhynchos"
+		"th": "นกเป็ดหัวเขียว",
+		"en": "Eurasian Coot",
+		"sci": "Fulica atra"
 	},
 	{
-		"th": "นกแอ่นตาล",
-		"en": "Asian Palm Swift",
-		"sci": "Cypsiurus balasiensis"
+		"th": "นกกระต่ายน้ำ",
+		"en": "Common Snipe",
+		"sci": "Gallinago gallinago"
 	},
 	{
-		"th": "นกกาเหว่า",
-		"en": "Cuckoo",
-		"sci": "Eudynamys scolopaceus"
+		"th": "นกนากเครือ",
+		"en": "Common Moorhen",
+		"sci": "Gallinula chloropus"
 	},
 	{
-		"th": "นกเขาชวา",
-		"en": "Zebra Dove",
-		"sci": "Geopelia striata"
+		"th": "กาแลลัสน้อย",
+		"en": "Eurasian Jay",
+		"sci": "Garrulus glandarius"
 	},
 	{
-		"th": "นกกิ้งโครงคอดำ",
-		"en": "Black-necked Starling",
-		"sci": "Gracupica nigricollis"
+		"th": "นกกระเรียน",
+		"en": "Common Crane",
+		"sci": "Grus grus"
+	},
+	{
+		"th": "นกชาเรด",
+		"en": "Eurasian Oystercatcher",
+		"sci": "Haematopus ostralegus"
+	},
+	{
+		"th": "นกนางแลเขียว",
+		"en": "Barn Swallow",
+		"sci": "Hirundo rustica"
+	},
+	{
+		"th": "นกไฮย่าสีขาว",
+		"en": "Bluethroat",
+		"sci": "Luscinia svecica"
+	},
+	{
+		"th": "นกพายุใหญ่",
+		"en": "Eurasian Curlew",
+		"sci": "Numenius arquata"
+	},
+	{
+		"th": "นกพายุปากเป็ด",
+		"en": "Whimbrel",
+		"sci": "Numenius phaeopus"
 	},
 	{
 		"th": "นกกระจอกใหญ่",
@@ -90,38 +115,48 @@
 		"sci": "Passer montanus"
 	},
 	{
-		"th": "นกปรอดสวน",
-		"en": "Pycnonotus conradi",
-		"sci": "Pycnonotus blanfordi"
+		"th": "นกตั๊กแตนตำข้าว",
+		"en": "Black Redstart",
+		"sci": "Phoenicurus ochruros"
 	},
 	{
-		"th": "นกปรอดหน้านวล",
-		"en": "Soft-faced Bulbul",
-		"sci": "Pycnonotus goiavier"
+		"th": "นกกาเหยิน",
+		"en": "Eurasian Magpie",
+		"sci": "Pica pica"
 	},
 	{
-		"th": "นกเขาใหญ่",
-		"en": "Eastern Spotted Dove",
-		"sci": "Spilopelia chinensis"
+		"th": "นกเอี้ยง",
+		"en": "Common Starling",
+		"sci": "Sturnus vulgaris"
 	},
 	{
-		"th": "นกเขาไฟ",
-		"en": "Red Turtle-dove",
-		"sci": "Streptopelia tranquebarica"
+		"th": "นกเป็ดน้ำซากี้",
+		"en": "Little Grebe",
+		"sci": "Tachybaptus ruficollis"
 	},
 	{
-		"th": "สตาร์ลิ่ง",
-		"en": "Common starling",
-		"sci": "Sturnidae"
+		"th": "นกโคร่ง",
+		"en": "Common Greenshank",
+		"sci": "Tringa nebularia"
 	},
 	{
-		"th": "นกต้อยตีวิด",
-		"en": "Red-wattled Lapwing",
-		"sci": "Vanellus indicus"
+		"th": "นกเหยี่ยว",
+		"en": "Green Sandpiper",
+		"sci": "Tringa ochropus"
 	},
 	{
-		"th": "นกกรงหัวจุก",
-		"en": "Red-whiskered Bulbul",
-		"sci": "Pycnonotus jocosus"
+		"th": "นกเหยี่ยวลาย",
+		"en": "Redshank",
+		"sci": "Tringa totanus"
+	},
+	{
+		"th": "นกเค้าจุด",
+		"en": "Barn Owl",
+		"sci": "Tyto alba"
+	},
+	{
+		"th": "นกจามจุรี",
+		"en": "Northern Lapwing",
+		"sci": "Vanellus vanellus"
 	}
 ]
